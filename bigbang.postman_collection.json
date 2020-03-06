@@ -1,0 +1,574 @@
+{
+	"id": "b6886022-59af-4fd4-ca61-0209a76d8fc8",
+	"name": "bigbang",
+	"description": "",
+	"order": [
+		"d977e2f7-369a-0b53-2b6e-4f848cf74318",
+		"77ab154e-283b-8703-0bc8-7127070ad8a8",
+		"4aca6c4b-235b-e8a9-e580-4587954c8cc8",
+		"03ba8b3f-ef75-09fa-9bd8-ee989be05827",
+		"1e3c1f62-96a5-0d5e-4b9a-a4a7f51bf405",
+		"49c266cd-f298-ddcd-259a-592714c09431",
+		"d73d2cd9-085b-0c51-35cf-29f62dd2fcea",
+		"11ca2a5a-2d1c-864f-0ddc-683a0320fc6c",
+		"0f2a2d4a-0045-449b-c3be-5eb3f6e1265c",
+		"3a03d9e2-4a2a-565a-d8e5-e32726299e12"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1576560508811,
+	"owner": "9728896",
+	"public": false,
+	"requests": [
+		{
+			"id": "03ba8b3f-ef75-09fa-9bd8-ee989be05827",
+			"headers": "//header: \n//Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"url": "http://192.168.1.250:3000/product/add_product",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "b6886022-59af-4fd4-ca61-0209a76d8fc8",
+			"data": [
+				{
+					"key": "name",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "quantity",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "product add api",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1576567469067,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "0f2a2d4a-0045-449b-c3be-5eb3f6e1265c",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzNDAwMDM1LCJpYXQiOjE1ODMzMTM2MzV9.7caYPKTjMj9RJ13lDSH_XfsAvNv9EaZpTH05WR9pUlQ\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzNDAwMDM1LCJpYXQiOjE1ODMzMTM2MzV9.7caYPKTjMj9RJ13lDSH_XfsAvNv9EaZpTH05WR9pUlQ",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4000/api/v1/product/list?pageno=3&limit=2",
+			"queryParams": [
+				{
+					"key": "pageno",
+					"value": "3",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "limit",
+					"value": "2",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "limit",
+					"value": "10",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "skip",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "cat_id",
+					"value": "3",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shop_id",
+					"value": "6",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583316047406,
+			"name": "all product list",
+			"description": "",
+			"collectionId": "b6886022-59af-4fd4-ca61-0209a76d8fc8",
+			"responses": []
+		},
+		{
+			"id": "11ca2a5a-2d1c-864f-0ddc-683a0320fc6c",
+			"headers": "token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic21vb3RoZ3JhcGgiLCJpYXQiOjE1NzcxNzE2MzMsImV4cCI6MTU3NzM0NDQzMywiaXNzIjoiaHR0cHM6Ly9zY290Y2guaW8ifQ.7p4FKtktCYdmT0_7B9QSQrLWP_qnPwJhBQO41-Bjxh8\nContent-Type: application/x-www-form-urlencoded\nHost: 192.168.1.250:3000\nX-Amz-Date: 20191224T072703Z\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic21vb3RoZ3JhcGgiLCJpYXQiOjE1NzcxNzE2MzMsImV4cCI6MTU3NzM0NDQzMywiaXNzIjoiaHR0cHM6Ly9zY290Y2guaW8ifQ.7p4FKtktCYdmT0_7B9QSQrLWP_qnPwJhBQO41-Bjxh8\n",
+			"headerData": [
+				{
+					"key": "token",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic21vb3RoZ3JhcGgiLCJpYXQiOjE1NzcxNzE2MzMsImV4cCI6MTU3NzM0NDQzMywiaXNzIjoiaHR0cHM6Ly9zY290Y2guaW8ifQ.7p4FKtktCYdmT0_7B9QSQrLWP_qnPwJhBQO41-Bjxh8",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Host",
+					"value": "192.168.1.250:3000",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-Amz-Date",
+					"value": "20191224T072703Z",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic21vb3RoZ3JhcGgiLCJpYXQiOjE1NzcxNzE2MzMsImV4cCI6MTU3NzM0NDQzMywiaXNzIjoiaHR0cHM6Ly9zY290Y2guaW8ifQ.7p4FKtktCYdmT0_7B9QSQrLWP_qnPwJhBQO41-Bjxh8",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:3000/users/all",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "name",
+					"value": "smoothgraph",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "12345678",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1577178400522,
+			"name": "user all",
+			"description": "",
+			"collectionId": "b6886022-59af-4fd4-ca61-0209a76d8fc8",
+			"responses": []
+		},
+		{
+			"id": "1e3c1f62-96a5-0d5e-4b9a-a4a7f51bf405",
+			"headers": "Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic21vb3RoZ3JhcGgiLCJpYXQiOjE1NzcxNzE2MzMsImV4cCI6MTU3NzM0NDQzMywiaXNzIjoiaHR0cHM6Ly9zY290Y2guaW8ifQ.7p4FKtktCYdmT0_7B9QSQrLWP_qnPwJhBQO41-Bjxh8\n//Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic21vb3RoZ3JhcGgiLCJpYXQiOjE1NzcxNzE2MzMsImV4cCI6MTU3NzM0NDQzMywiaXNzIjoiaHR0cHM6Ly9zY290Y2guaW8ifQ.7p4FKtktCYdmT0_7B9QSQrLWP_qnPwJhBQO41-Bjxh8",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"url": "http://192.168.1.250:3000/product",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "name",
+					"value": "Suntan Lotions",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "quantity",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1577178975460,
+			"name": "product list api",
+			"description": "",
+			"collectionId": "b6886022-59af-4fd4-ca61-0209a76d8fc8",
+			"responses": []
+		},
+		{
+			"id": "3a03d9e2-4a2a-565a-d8e5-e32726299e12",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/generate_token",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "b6886022-59af-4fd4-ca61-0209a76d8fc8",
+			"data": [
+				{
+					"key": "name",
+					"value": "Suntan Lotions",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "quantity",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "generate site token",
+			"description": "generate site token",
+			"descriptionFormat": "html",
+			"time": 1583313629401,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "49c266cd-f298-ddcd-259a-592714c09431",
+			"headers": "//header: \n//Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"url": "http://192.168.1.250:3000/product/add",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "smoothgraph",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "12345678",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1577169614290,
+			"name": "user registration",
+			"description": "",
+			"collectionId": "b6886022-59af-4fd4-ca61-0209a76d8fc8",
+			"responses": []
+		},
+		{
+			"id": "4aca6c4b-235b-e8a9-e580-4587954c8cc8",
+			"headers": "//header: \nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:3000/admin/users/registration",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "b6886022-59af-4fd4-ca61-0209a76d8fc8",
+			"data": [
+				{
+					"key": "username",
+					"value": "rajesh1.smoothgraph",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "rajeshs1moothgraph@gmail.com",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "12345678",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "rajesh",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "user registration api",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1576565748626,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "77ab154e-283b-8703-0bc8-7127070ad8a8",
+			"headers": "//header: \nContent-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:3000/admin/users/login",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "username",
+					"value": "rajesh1.smoothgraph",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "rajeshs1moothgraph@gmail.com",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "password",
+					"value": "12345678",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1576565692361,
+			"name": "login api",
+			"description": "",
+			"collectionId": "b6886022-59af-4fd4-ca61-0209a76d8fc8",
+			"responses": []
+		},
+		{
+			"id": "d73d2cd9-085b-0c51-35cf-29f62dd2fcea",
+			"headers": "//header: \n//Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"url": "http://192.168.1.250:3000/product/login",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "b6886022-59af-4fd4-ca61-0209a76d8fc8",
+			"data": [
+				{
+					"key": "name",
+					"value": "smoothgraph",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "12345678",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "user login",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1577169630476,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "d977e2f7-369a-0b53-2b6e-4f848cf74318",
+			"headers": "",
+			"headerData": [],
+			"url": "http://192.168.1.250:3000/admin/users",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "b6886022-59af-4fd4-ca61-0209a76d8fc8",
+			"data": null,
+			"dataMode": "params",
+			"name": "http://192.168.1.250:3000/admin/users",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1576560509928,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}

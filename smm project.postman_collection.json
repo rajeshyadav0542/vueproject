@@ -1,0 +1,5673 @@
+{
+	"id": "bc306815-0430-b792-02d6-5035cbfee7da",
+	"name": "smm project",
+	"description": "",
+	"order": [
+		"f1fbced6-d7eb-8374-4709-2689f9382745",
+		"d7e6f87f-9966-cab5-14f3-3ee52982e93b",
+		"e8e310ba-83a2-6e1a-ab5f-77e5ff6e2cbe",
+		"7f186473-1609-c685-288d-aba896790e24",
+		"db3cdfc5-cd38-921d-3795-1af7525b249b",
+		"db45403d-b806-2add-c6da-57c12f4b6f5b",
+		"99edb07f-140e-3d4d-e9e6-dad4fdcb2161"
+	],
+	"folders": [
+		{
+			"name": "Bargain",
+			"description": "",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"order": [
+				"8ca2be66-4caf-bbf9-0a9c-5379f98f06a9",
+				"16504b1c-8537-560d-64f4-0ec7275138c4",
+				"2ea1f800-fade-6f73-d80e-89dd42edc654",
+				"518d3e31-51ea-c88f-fcab-d063f97f2178",
+				"96ba4400-7b08-a20d-f16c-c187c3bcc883",
+				"b98e1bd5-cd58-b791-eebd-e095f2a269da"
+			],
+			"owner": "9728896",
+			"folders_order": [],
+			"id": "6b9803f9-7c83-6f79-d411-7383c50b87ce"
+		},
+		{
+			"name": "Buyer and seller registration",
+			"description": "",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"order": [
+				"00e94b0a-c6cf-4e12-5f66-0dd1517ab036",
+				"31f7b467-2940-bdcb-0bfa-bdf598141b82",
+				"f56721e3-dd85-4591-5c3c-3a4e3aea068d",
+				"eecee166-aa39-bb1d-4d2b-ad25b0a7b983",
+				"28d4c936-9599-db75-37d9-1a44898b1ac1",
+				"48387311-efe6-410b-022e-a8032117f641",
+				"0d4580d9-0967-9b0b-4094-ef5732cba5db",
+				"13c86119-defe-e2b4-5903-8e2cba000e29",
+				"44a189b0-2b7e-7007-a93e-ce948b6c17a1",
+				"d8a6433c-d859-d096-a8bf-c637109a5b22",
+				"e5b59c20-f263-60d4-138b-f4ea5f38911d",
+				"aaf4866b-99ad-6b1c-1261-bb976cfad7ec",
+				"b0bef2b1-4d87-7971-623c-c4ab689f7319",
+				"bfe360fe-483f-21a2-4e6a-d2d65c79a6d3"
+			],
+			"owner": "9728896",
+			"folders_order": [],
+			"id": "0a07b17e-0a21-73bd-f5e4-4118168c7e61"
+		},
+		{
+			"name": "Country, state and city",
+			"description": "",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"order": [
+				"94547e5c-bea6-1e51-9ab3-7d21456bd3f4",
+				"433dd042-84d0-4a5e-99f8-c0374766a5b0",
+				"91260240-6a5e-a8e7-72cb-c021bc9a7814",
+				"1e376bab-fcc9-f21a-af72-e7a0fdcac09e"
+			],
+			"owner": "9728896",
+			"folders_order": [],
+			"id": "abe334fd-9ed9-d942-16c6-aef34bc013d3"
+		},
+		{
+			"name": "Shopping",
+			"description": "User create, edit, delete and list shopping list name",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"order": [
+				"d6d97b43-d2d8-8ae2-bcfd-f22189ac88fb",
+				"940f5cbb-69b3-2acf-e242-884ae2817924",
+				"f9afdc41-ae49-2393-c3d1-eb97977ec22d",
+				"318e6091-6547-25b7-a8a7-b99edbb73339",
+				"c4883270-09ef-173a-56e9-8fa626d1a911",
+				"70b52785-c98d-c803-14f8-b5b84dd9e5c8",
+				"d12aa9b1-6459-3059-5e2a-c50b3f4bbe7d",
+				"88881d1c-debc-2df2-ff53-04e1b5a4387a"
+			],
+			"owner": "9728896",
+			"folders_order": [],
+			"id": "8bde9e0f-3dfa-9b15-8f81-0ca92d26481c"
+		},
+		{
+			"name": "User address",
+			"description": "",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"order": [
+				"bd25a617-e1bc-8130-fb36-1896a13e32ca",
+				"bfebf1b9-0a22-ef00-9a04-22a3057d0268",
+				"b8137522-f97e-b239-5b45-26bdea669f7b",
+				"bf7e04b0-f5a6-11bc-7f27-9c9192e6b6e2",
+				"74c2b8cc-f7d6-974a-822d-8df55eedc16f"
+			],
+			"owner": "9728896",
+			"folders_order": [],
+			"id": "3cb1d2a5-232d-8947-2c30-8ce04eb5f234"
+		},
+		{
+			"name": "Wishlist",
+			"description": "",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"order": [
+				"e1d71714-b2db-9652-d527-47dcc3f421e3",
+				"fd76e1cd-bb9d-13fd-5d4b-8baff3feda00",
+				"ba938eb7-3f72-6f57-956a-f6a4da98e6a7"
+			],
+			"owner": "9728896",
+			"folders_order": [],
+			"id": "50af7deb-a8bc-66fd-9f8f-59bc8c162491"
+		},
+		{
+			"name": "category",
+			"description": "",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"order": [
+				"a7046b63-9b19-d47a-65bf-98f6b94d5084"
+			],
+			"owner": "9728896",
+			"folders_order": [],
+			"id": "0ea048a9-a842-7608-0b48-3b8d2a759cdc"
+		},
+		{
+			"name": "cms",
+			"description": "",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"order": [
+				"bd26abb2-c0a1-aca3-4972-64e0926ffeb8",
+				"28da6175-a9a3-2a35-207b-92d3788daf27"
+			],
+			"owner": "9728896",
+			"folders_order": [],
+			"id": "e80a6e24-21ad-48e6-a6f0-1228acd7306a"
+		},
+		{
+			"name": "order",
+			"description": "User place order.",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"order": [],
+			"owner": "9728896",
+			"folders_order": [],
+			"id": "f8162a2e-7b7d-4f02-2490-dd0ac7e22a12"
+		},
+		{
+			"name": "product",
+			"description": "",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"order": [
+				"5e9f2c3b-986d-da97-696c-78c7e5d97b17",
+				"6cedb6f3-1fd0-8111-4692-d83bb774bfd4",
+				"b85fcc9e-1f9b-0dd2-7db0-0cb8d72f519e",
+				"df67c14e-8ff2-6e5d-020d-874ab373d9c6",
+				"4f110d0a-d28b-6a62-3bac-a930a4668d28",
+				"1849cce8-907b-f5b7-248e-53aa20b3718b",
+				"a57dc10c-f37e-830d-5c5b-9a8da8b9abcd",
+				"d8c245c8-03ef-99b6-3f52-796f2339270c",
+				"ac322983-100b-1451-01b3-168954390adf",
+				"f7b76658-8ec3-57da-a8a5-20eab5ade73c"
+			],
+			"owner": "9728896",
+			"folders_order": [],
+			"id": "2a66cee9-91cb-0b56-e800-d248edeb8430"
+		},
+		{
+			"name": "shop",
+			"description": "",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"order": [
+				"9897a667-4ccc-b222-e105-e964493e1231",
+				"91aaeae5-a2a1-0236-033c-c2013868877d",
+				"428ce22f-255a-a22f-554b-34008e497fde",
+				"166bc320-0d9c-e872-2200-570a72ad99a1",
+				"68ed27b0-bcf8-42b6-4b60-502e9690902f",
+				"e26b88f0-d136-bba0-dc44-f9d8cd4b965a",
+				"eedc2fba-6aae-1588-5097-c8ebfd5fe951",
+				"006afa45-3383-3c88-7432-ce0742661a5b",
+				"6039e723-bed9-57c6-e065-14adc5d1dc27",
+				"c4592688-fc19-88fc-1754-1967a8dde52f",
+				"c64aa8e9-8c45-e15e-fd19-c8c9ab1e57e4",
+				"93584748-6730-38bc-e2f6-8afcfbe5fb3e"
+			],
+			"owner": "9728896",
+			"folders_order": [],
+			"id": "bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb"
+		},
+		{
+			"name": "user shopping cart",
+			"description": "",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"order": [
+				"a58501b9-4ed8-0893-999a-c58193dc6c6f",
+				"0bbff16a-b0f5-c57e-be7c-e9bc16cb4a6f",
+				"1c3c65f1-ac4a-7699-d2c5-350f71109a00",
+				"a07888b5-5ba6-9cbc-c129-2a449fbde454"
+			],
+			"owner": "9728896",
+			"folders_order": [],
+			"id": "465e63d1-3f4a-2e24-8176-dc6eb70b621a"
+		}
+	],
+	"folders_order": [
+		"8bde9e0f-3dfa-9b15-8f81-0ca92d26481c",
+		"0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+		"bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb",
+		"2a66cee9-91cb-0b56-e800-d248edeb8430",
+		"0ea048a9-a842-7608-0b48-3b8d2a759cdc",
+		"e80a6e24-21ad-48e6-a6f0-1228acd7306a",
+		"abe334fd-9ed9-d942-16c6-aef34bc013d3",
+		"3cb1d2a5-232d-8947-2c30-8ce04eb5f234",
+		"6b9803f9-7c83-6f79-d411-7383c50b87ce",
+		"50af7deb-a8bc-66fd-9f8f-59bc8c162491",
+		"465e63d1-3f4a-2e24-8176-dc6eb70b621a",
+		"f8162a2e-7b7d-4f02-2490-dd0ac7e22a12"
+	],
+	"timestamp": 1577102084012,
+	"owner": "9728896",
+	"public": false,
+	"requests": [
+		{
+			"id": "006afa45-3383-3c88-7432-ce0742661a5b",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjExMjY4LCJpYXQiOjE1ODMxMjQ4Njh9.yNBtY7wZVyUjEi5MDflytzpyfs2rTC3FmltqpUncqZ4\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjExMjY4LCJpYXQiOjE1ODMxMjQ4Njh9.yNBtY7wZVyUjEi5MDflytzpyfs2rTC3FmltqpUncqZ4",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shop/favourite_shop?user_id=104&shop_id=41",
+			"folder": "bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb",
+			"queryParams": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "shop_id",
+					"value": "41",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shop_id",
+					"value": "41",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583126119809,
+			"name": "User Favorite shop",
+			"description": "User Favorite shop",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "00e94b0a-c6cf-4e12-5f66-0dd1517ab036",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgwMTg3NTE3LCJpYXQiOjE1ODAxMDExMTd9.A-NF-5DruBZ8Y_7vpGYUK5U7xsQXhobkv-otc8ctU8o\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgwMTg3NTE3LCJpYXQiOjE1ODAxMDExMTd9.A-NF-5DruBZ8Y_7vpGYUK5U7xsQXhobkv-otc8ctU8o",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/registration",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "first_name",
+					"value": "TEst",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "last_name",
+					"value": "Graph",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "rajesh.yadav@smoothgraph.in",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ph_number",
+					"value": "8826395418",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "dob",
+					"value": "1990-10-10",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "12345678",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_type",
+					"value": "buyer",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "remember_token",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "register_ip",
+					"value": "192.168.1.3",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582612096830,
+			"name": "user mobile registration",
+			"description": "user mobile registration",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "0bbff16a-b0f5-c57e-be7c-e9bc16cb4a6f",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/order/shoppingCart?user_id=109&limit=10&pageno=1&lang_id=0",
+			"folder": "465e63d1-3f4a-2e24-8176-dc6eb70b621a",
+			"queryParams": [
+				{
+					"key": "user_id",
+					"value": "109",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "limit",
+					"value": "10",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "pageno",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "limit",
+					"value": "5",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "page_number",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583141781815,
+			"name": "User product cart list",
+			"description": "User product shopping list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "0d4580d9-0967-9b0b-4094-ef5732cba5db",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzk1NTQyLCJpYXQiOjE1ODI3MDkxNDJ9.SfyLo1mdBPGOpGfbZYKftVzlCPuE-NaAeV1ECWz9RMI\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzk1NTQyLCJpYXQiOjE1ODI3MDkxNDJ9.SfyLo1mdBPGOpGfbZYKftVzlCPuE-NaAeV1ECWz9RMI",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/confirm_password?user_id=108&password=12345678",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+			"queryParams": [
+				{
+					"key": "user_id",
+					"value": "108",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "12345678",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "84",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123456",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582784678477,
+			"name": "check password when update profile",
+			"description": "check password when update profile",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "13c86119-defe-e2b4-5903-8e2cba000e29",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzAwNzExLCJpYXQiOjE1ODI2MTQzMTF9.3U2gxYWlyUN8hPCLrTNJRlYFOcLDpxA3errXga75n40\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzAwNzExLCJpYXQiOjE1ODI2MTQzMTF9.3U2gxYWlyUN8hPCLrTNJRlYFOcLDpxA3errXga75n40",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/check_user_name",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "108",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "testsmooth@gmail.com",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "email",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582622788948,
+			"name": "username check, update and send otp update in profile",
+			"description": "username update in profile",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "16504b1c-8537-560d-64f4-0ec7275138c4",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/check_product_bargain?product_id=71&user_id=108",
+			"folder": "6b9803f9-7c83-6f79-d411-7383c50b87ce",
+			"queryParams": [
+				{
+					"key": "product_id",
+					"value": "71",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "108",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "product_id",
+					"value": "71",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "108",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583131890187,
+			"name": "User Check bargain on product",
+			"description": "User Check bargain on product",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "166bc320-0d9c-e872-2200-570a72ad99a1",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shop/updateShopStatus",
+			"folder": "bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "shop_id",
+					"value": "41",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "bargaining",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "status",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1579857216383,
+			"name": "Update Shop status bargaining",
+			"description": "Update Shop status",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "1849cce8-907b-f5b7-248e-53aa20b3718b",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgwOTc1MzQ4LCJpYXQiOjE1ODA4ODg5NDh9.xEGu89UOacSubVxO1e3PcA5MSee31qjZgibxS2T7XiY\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgwOTc1MzQ4LCJpYXQiOjE1ODA4ODg5NDh9.xEGu89UOacSubVxO1e3PcA5MSee31qjZgibxS2T7XiY",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/update_seller_product",
+			"folder": "2a66cee9-91cb-0b56-e800-d248edeb8430",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "product_id",
+					"value": "71",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "product_cat",
+					"value": "25",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "show_price",
+					"value": "1",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "unit_price",
+					"value": "200",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "order_qty_limit",
+					"value": "1",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "min_order_qty",
+					"value": "5",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "unit",
+					"value": "4",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "baseunit",
+					"value": "7",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "weight_per_unit",
+					"value": "100",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "description",
+					"value": "the quick brown fox jumps right over the lazy dog.\nthe quick brown fox jumps right over the lazy dog.\nthe quick brown fox jumps right over the lazy dog.",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "size",
+					"value": "jumbo",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "grade",
+					"value": "very_good",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "user_id",
+					"value": "104",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "status",
+					"value": "1",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "image",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1580906380063,
+			"name": "Product update by seller",
+			"description": "Product update by seller",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "1c3c65f1-ac4a-7699-d2c5-350f71109a00",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/order/product_add_to_cart",
+			"folder": "465e63d1-3f4a-2e24-8176-dc6eb70b621a",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "product_id",
+					"value": "47",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "quantity",
+					"value": "5",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "action",
+					"value": "addtocart",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "device_id",
+					"value": "Y1rzMGRz82sGyI3fBTL6Cusk6VW6w42b4FJEBb7E",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583140325719,
+			"name": "User add product in cart",
+			"description": "User add product in cart",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "1e376bab-fcc9-f21a-af72-e7a0fdcac09e",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/address/state?country_id=1&lang_id=0",
+			"folder": "abe334fd-9ed9-d942-16c6-aef34bc013d3",
+			"queryParams": [
+				{
+					"key": "country_id",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "country_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582785525832,
+			"name": "country state list",
+			"description": "country state list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "28d4c936-9599-db75-37d9-1a44898b1ac1",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/send_email_otp",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "75",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1579001415265,
+			"name": "email registration otp",
+			"description": "email registration otp",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "28d4c936-9599-db75-37d9-1a44898b1ac1"
+		},
+		{
+			"id": "28da6175-a9a3-2a35-207b-92d3788daf27",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/cms/banner",
+			"folder": "e80a6e24-21ad-48e6-a6f0-1228acd7306a",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "email",
+					"value": "rajesh1@smoothgraph.in",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583144066133,
+			"name": "Api for banner data",
+			"description": "Api for banner data",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "2ea1f800-fade-6f73-d80e-89dd42edc654",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/bargain_product_list?user_id=108&sortby=byproduct",
+			"folder": "6b9803f9-7c83-6f79-d411-7383c50b87ce",
+			"queryParams": [
+				{
+					"key": "user_id",
+					"value": "108",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "sortby",
+					"value": "byproduct",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "108",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "sortby",
+					"value": "byproduct",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583132133793,
+			"name": "User bargain product list",
+			"description": "User bargain product list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "318e6091-6547-25b7-a8a7-b99edbb73339",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shopping/delete_shopping",
+			"folder": "8bde9e0f-3dfa-9b15-8f81-0ca92d26481c",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "id",
+					"value": "30",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1581502697768,
+			"name": "User delete shopping name",
+			"description": "User delete shopping name",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "31f7b467-2940-bdcb-0bfa-bdf598141b82",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzk1NTQyLCJpYXQiOjE1ODI3MDkxNDJ9.SfyLo1mdBPGOpGfbZYKftVzlCPuE-NaAeV1ECWz9RMI\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzk1NTQyLCJpYXQiOjE1ODI3MDkxNDJ9.SfyLo1mdBPGOpGfbZYKftVzlCPuE-NaAeV1ECWz9RMI",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/verify_otp?user_id=108&otp=2524&type=email",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+			"queryParams": [
+				{
+					"key": "user_id",
+					"value": "108",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "otp",
+					"value": "2524",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "email",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "108",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "otp",
+					"value": "2524",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "email",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582784201845,
+			"name": "verify otp",
+			"description": "verify otp",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "428ce22f-255a-a22f-554b-34008e497fde",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shop/updateShopStatus?shop_id=41&type=shop_status&status=0",
+			"folder": "bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb",
+			"queryParams": [
+				{
+					"key": "shop_id",
+					"value": "41",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "shop_status",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "status",
+					"value": "0",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "shop_id",
+					"value": "41",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "shop_status",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "status",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583124812259,
+			"name": "Update Shop status",
+			"description": "Update Shop status",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "433dd042-84d0-4a5e-99f8-c0374766a5b0",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/address/city?country_id=1&state_id=1&lang_id=0",
+			"folder": "abe334fd-9ed9-d942-16c6-aef34bc013d3",
+			"queryParams": [
+				{
+					"key": "country_id",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "state_id",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "country_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "state_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582785417078,
+			"name": "country city list",
+			"description": "country city list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "44a189b0-2b7e-7007-a93e-ce948b6c17a1",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MjU2MDA2LCJpYXQiOjE1NzkyNTI0MDZ9.bSndwM0oN1WV9LXAzyFoF-nSscW4Lc5y0sun_V6Rn6E\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MjU2MDA2LCJpYXQiOjE1NzkyNTI0MDZ9.bSndwM0oN1WV9LXAzyFoF-nSscW4Lc5y0sun_V6Rn6E",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/update_user_name",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "84",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "rajesh2@smoothgraph.in",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "email",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1579256446954,
+			"name": "username update in profile",
+			"description": "username update in profile",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "44a189b0-2b7e-7007-a93e-ce948b6c17a1"
+		},
+		{
+			"id": "48387311-efe6-410b-022e-a8032117f641",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: confirm_password\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "confirm_password",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/confirm_password/108/12345678",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "80",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123456789",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582709106369,
+			"name": "update user password",
+			"description": "update user password",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "4f110d0a-d28b-6a62-3bac-a930a4668d28",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgwOTc1MzQ4LCJpYXQiOjE1ODA4ODg5NDh9.xEGu89UOacSubVxO1e3PcA5MSee31qjZgibxS2T7XiY\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgwOTc1MzQ4LCJpYXQiOjE1ODA4ODg5NDh9.xEGu89UOacSubVxO1e3PcA5MSee31qjZgibxS2T7XiY",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/create_seller_product",
+			"folder": "2a66cee9-91cb-0b56-e800-d248edeb8430",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "shop_id",
+					"value": "41",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "product_cat",
+					"value": "25",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "show_price",
+					"value": "1",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "unit_price",
+					"value": "150",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "order_qty_limit",
+					"value": "1",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "min_order_qty",
+					"value": "5",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "unit",
+					"value": "4",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "baseunit",
+					"value": "7",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "weight_per_unit",
+					"value": "100",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "description",
+					"value": "the quick brown fox jumps right over the lazy dog.",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "size",
+					"value": "jumbo",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "grade",
+					"value": "very_good",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "status",
+					"value": "1",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "quantity",
+					"value": "100",
+					"type": "text",
+					"enabled": true,
+					"description": ""
+				},
+				{
+					"key": "image",
+					"value": "",
+					"type": "file",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1580900348589,
+			"name": "Product add by seller",
+			"description": "Product add by seller",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "518d3e31-51ea-c88f-fcab-d063f97f2178",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/bargain_from_buyer",
+			"folder": "6b9803f9-7c83-6f79-d411-7383c50b87ce",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "unit_price",
+					"value": "200.00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "base_unit_price",
+					"value": "20.00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "unit_id",
+					"value": "8",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id",
+					"value": "56",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "created_by",
+					"value": "seller",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583133354477,
+			"name": "User bargain_from_buyer on product",
+			"description": "User bargain_from_buyer on product",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "5e9f2c3b-986d-da97-696c-78c7e5d97b17",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/list?cat_id=3&shop_id=6&pageno=1&limit=10",
+			"folder": "2a66cee9-91cb-0b56-e800-d248edeb8430",
+			"queryParams": [
+				{
+					"key": "cat_id",
+					"value": "3",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "shop_id",
+					"value": "6",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "pageno",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "limit",
+					"value": "10",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "limit",
+					"value": "10",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "skip",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "cat_id",
+					"value": "3",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shop_id",
+					"value": "6",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582777414496,
+			"name": "all product list",
+			"description": "",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "6039e723-bed9-57c6-e065-14adc5d1dc27",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjExMjY4LCJpYXQiOjE1ODMxMjQ4Njh9.yNBtY7wZVyUjEi5MDflytzpyfs2rTC3FmltqpUncqZ4\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjExMjY4LCJpYXQiOjE1ODMxMjQ4Njh9.yNBtY7wZVyUjEi5MDflytzpyfs2rTC3FmltqpUncqZ4",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shop/remove_favourite_shop",
+			"folder": "bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shop_id",
+					"value": "14",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583125663336,
+			"name": "User remove Favorite shop",
+			"description": "User remove Favorite shop",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "68ed27b0-bcf8-42b6-4b60-502e9690902f",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjExMjY4LCJpYXQiOjE1ODMxMjQ4Njh9.yNBtY7wZVyUjEi5MDflytzpyfs2rTC3FmltqpUncqZ4\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjExMjY4LCJpYXQiOjE1ODMxMjQ4Njh9.yNBtY7wZVyUjEi5MDflytzpyfs2rTC3FmltqpUncqZ4",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shop/user_shop_data?user_id=104",
+			"folder": "bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb",
+			"queryParams": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583125409936,
+			"name": "User shop list",
+			"description": "User shop list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "6cedb6f3-1fd0-8111-4692-d83bb774bfd4",
+			"headers": "//header: \n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/details?id=71",
+			"folder": "2a66cee9-91cb-0b56-e800-d248edeb8430",
+			"queryParams": [
+				{
+					"key": "id",
+					"value": "71",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "id",
+					"value": "71",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582777543841,
+			"name": "product details",
+			"description": "product add api",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "70b52785-c98d-c803-14f8-b5b84dd9e5c8",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgxNTczMjcwLCJpYXQiOjE1ODE0ODY4NzB9.T4NDjrp8Jm6NrewSOOFmNZjX5Nuc0zSmRIjAeEiJvZY\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgxNTczMjcwLCJpYXQiOjE1ODE0ODY4NzB9.T4NDjrp8Jm6NrewSOOFmNZjX5Nuc0zSmRIjAeEiJvZY",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shopping/shipping_list_product",
+			"folder": "8bde9e0f-3dfa-9b15-8f81-0ca92d26481c",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1581585758162,
+			"name": "User shopping product list",
+			"description": "User shopping product list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "74c2b8cc-f7d6-974a-822d-8df55eedc16f",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/address/delete_address",
+			"folder": "3cb1d2a5-232d-8947-2c30-8ce04eb5f234",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id",
+					"value": "26",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582790774955,
+			"name": "User delete shipping or billing  address",
+			"description": "User delete shipping or billing  address",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "7f186473-1609-c685-288d-aba896790e24",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/send_sms",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "77",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1579158895496,
+			"name": "Send email test",
+			"description": "Send email test",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "88881d1c-debc-2df2-ff53-04e1b5a4387a",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shopping/delete_shopping_product",
+			"folder": "8bde9e0f-3dfa-9b15-8f81-0ca92d26481c",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "id",
+					"value": "359",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1581513777190,
+			"name": "User delete shopping list product",
+			"description": "User delete shopping list product",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "8ca2be66-4caf-bbf9-0a9c-5379f98f06a9",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/bargain",
+			"folder": "6b9803f9-7c83-6f79-d411-7383c50b87ce",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "qty",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "unit_price",
+					"value": "50.00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "base_unit_price",
+					"value": "5.00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "unit_id",
+					"value": "8",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "product_id",
+					"value": "58",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583130855679,
+			"name": "User bargain on product",
+			"description": "User bargain on product",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "91260240-6a5e-a8e7-72cb-c021bc9a7814",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/address/district",
+			"folder": "abe334fd-9ed9-d942-16c6-aef34bc013d3",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "country_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "state_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "district_id",
+					"value": "7",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1579507071378,
+			"name": "country district list",
+			"description": "country district list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "91aaeae5-a2a1-0236-033c-c2013868877d",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shop/insert_shop_info",
+			"folder": "bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "105",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "panel_no",
+					"value": "Y140",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shop_name",
+					"value": "mango store",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shop_url",
+					"value": "mango-store",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "citizen_id",
+					"value": "884",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "image",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1580879809363,
+			"name": "Create shop data",
+			"description": "Create shop data",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "93584748-6730-38bc-e2f6-8afcfbe5fb3e",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjExMjY4LCJpYXQiOjE1ODMxMjQ4Njh9.yNBtY7wZVyUjEi5MDflytzpyfs2rTC3FmltqpUncqZ4\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjExMjY4LCJpYXQiOjE1ODMxMjQ4Njh9.yNBtY7wZVyUjEi5MDflytzpyfs2rTC3FmltqpUncqZ4",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shop/update_shop_image",
+			"folder": "bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "image",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				},
+				{
+					"key": "id",
+					"value": "43",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "logo",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583129073601,
+			"name": "shop update in logo, banner, map or shop image",
+			"description": "shop update in logo, banner, map or shop image",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "940f5cbb-69b3-2acf-e242-884ae2817924",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shopping/shopping_list",
+			"folder": "8bde9e0f-3dfa-9b15-8f81-0ca92d26481c",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1580974076830,
+			"name": "User shopping list",
+			"description": "User shopping list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "94547e5c-bea6-1e51-9ab3-7d21456bd3f4",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzAwNzExLCJpYXQiOjE1ODI2MTQzMTF9.3U2gxYWlyUN8hPCLrTNJRlYFOcLDpxA3errXga75n40\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzAwNzExLCJpYXQiOjE1ODI2MTQzMTF9.3U2gxYWlyUN8hPCLrTNJRlYFOcLDpxA3errXga75n40",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/address/country",
+			"folder": "abe334fd-9ed9-d942-16c6-aef34bc013d3",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "name",
+					"value": "Suntan Lotions",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "quantity",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582627018830,
+			"name": "country list",
+			"description": "country list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "96ba4400-7b08-a20d-f16c-c187c3bcc883",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/removebargain",
+			"folder": "6b9803f9-7c83-6f79-d411-7383c50b87ce",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "all",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id",
+					"value": "57,56",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583133429898,
+			"name": "User bargain remove",
+			"description": "User bargain remove",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "9897a667-4ccc-b222-e105-e964493e1231",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5NjcyNDcyLCJpYXQiOjE1Nzk2Njg4NzJ9.RcBzeMlVEILZTeH9J3Ufi2C96wWILTa-ICRVhA2QwSA\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5NjcyNDcyLCJpYXQiOjE1Nzk2Njg4NzJ9.RcBzeMlVEILZTeH9J3Ufi2C96wWILTa-ICRVhA2QwSA",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shop/check_storename",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"data": [
+				{
+					"key": "shop_name",
+					"value": "Mobilestore",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "Check shop name",
+			"description": "Check shop name",
+			"descriptionFormat": "html",
+			"time": 1579697868225,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb"
+		},
+		{
+			"id": "99edb07f-140e-3d4d-e9e6-dad4fdcb2161",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/order/paymentmethod",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582115629598,
+			"name": "Payment method list",
+			"description": "Payment method list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "a07888b5-5ba6-9cbc-c129-2a449fbde454",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/order/removeCart?user_id=109&cartId=159",
+			"folder": "465e63d1-3f4a-2e24-8176-dc6eb70b621a",
+			"queryParams": [
+				{
+					"key": "user_id",
+					"value": "109",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "cartId",
+					"value": "159",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "cartId",
+					"value": "159",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583141816659,
+			"name": "User remove product from cart",
+			"description": "User remove product from cart",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "a57dc10c-f37e-830d-5c5b-9a8da8b9abcd",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/seller_product?id=6&pageno=1&limit=10",
+			"folder": "2a66cee9-91cb-0b56-e800-d248edeb8430",
+			"queryParams": [
+				{
+					"key": "id",
+					"value": "6",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "pageno",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "limit",
+					"value": "10",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "shop_id",
+					"value": "6",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582778984749,
+			"name": "Seller product list",
+			"description": "Seller product list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "a58501b9-4ed8-0893-999a-c58193dc6c6f",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgxNTczMjcwLCJpYXQiOjE1ODE0ODY4NzB9.T4NDjrp8Jm6NrewSOOFmNZjX5Nuc0zSmRIjAeEiJvZY\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgxNTczMjcwLCJpYXQiOjE1ODE0ODY4NzB9.T4NDjrp8Jm6NrewSOOFmNZjX5Nuc0zSmRIjAeEiJvZY",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/bargain",
+			"folder": "465e63d1-3f4a-2e24-8176-dc6eb70b621a",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "qty",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "unit_price",
+					"value": "50.00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "base_unit_price",
+					"value": "5.00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "unit_id",
+					"value": "8",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "product_id",
+					"value": "58",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "cart",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1581487701902,
+			"name": "User move product from cart to bargain",
+			"description": "User move product from cart to bargain",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "a58501b9-4ed8-0893-999a-c58193dc6c6f"
+		},
+		{
+			"id": "a7046b63-9b19-d47a-65bf-98f6b94d5084",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1Nzg5MDEyNjYsImlhdCI6MTU3ODg5NzY2Nn0.5MbaD7MoqkHaNZQRP1ctOIJVKPxb4wwb-iO-TATKaA4\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1Nzg5MDEyNjYsImlhdCI6MTU3ODg5NzY2Nn0.5MbaD7MoqkHaNZQRP1ctOIJVKPxb4wwb-iO-TATKaA4",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/category/all",
+			"folder": "0ea048a9-a842-7608-0b48-3b8d2a759cdc",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "skip",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "limit",
+					"value": "15",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1578898773900,
+			"name": "Category list",
+			"description": "Category list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "aaf4866b-99ad-6b1c-1261-bb976cfad7ec",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/forgot_password",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "email",
+					"value": "rajesh@smoothgraph.in",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1578988753023,
+			"name": "user forgot password",
+			"description": "user forgot password",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "aaf4866b-99ad-6b1c-1261-bb976cfad7ec"
+		},
+		{
+			"id": "ac322983-100b-1451-01b3-168954390adf",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/related_product?id=50",
+			"folder": "2a66cee9-91cb-0b56-e800-d248edeb8430",
+			"queryParams": [
+				{
+					"key": "id",
+					"value": "50",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "limit",
+					"value": "20",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "skip",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "product_id",
+					"value": "50",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582780224439,
+			"name": "Related product list",
+			"description": "Related product list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "b0bef2b1-4d87-7971-623c-c4ab689f7319",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzk1NTQyLCJpYXQiOjE1ODI3MDkxNDJ9.SfyLo1mdBPGOpGfbZYKftVzlCPuE-NaAeV1ECWz9RMI\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzk1NTQyLCJpYXQiOjE1ODI3MDkxNDJ9.SfyLo1mdBPGOpGfbZYKftVzlCPuE-NaAeV1ECWz9RMI",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/login?email=rajesh@smoothgraph.in&password=12345678",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+			"queryParams": [
+				{
+					"key": "email",
+					"value": "rajesh@smoothgraph.in",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "12345678",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "email",
+					"value": "rajesh@smoothgraph.in",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "12345678",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582716084051,
+			"name": "user login api",
+			"description": "user login api",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "b8137522-f97e-b239-5b45-26bdea669f7b",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/address/update",
+			"folder": "3cb1d2a5-232d-8947-2c30-8ce04eb5f234",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "first_name",
+					"value": "rajesh",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "last_name",
+					"value": "yadav",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "title",
+					"value": "Test smoothgraph",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "address",
+					"value": "E-57A Sec-63",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "road",
+					"value": "Dhanpat road",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "city_district",
+					"value": "คลองหลวง",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "province_state",
+					"value": "ปทุมธานี",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "zip_code",
+					"value": "12120",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ph_number",
+					"value": "8855662233",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id",
+					"value": "49",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shipping_address",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "billing_address",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582703442212,
+			"name": "user update shipping and billing address",
+			"description": "user update shipping and billing address",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "b85fcc9e-1f9b-0dd2-7db0-0cb8d72f519e",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/package_unit_list",
+			"folder": "2a66cee9-91cb-0b56-e800-d248edeb8430",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582777553290,
+			"name": "Product package and unit list",
+			"description": "Product package and unit list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "b98e1bd5-cd58-b791-eebd-e095f2a269da",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/order/add_to_cart",
+			"folder": "6b9803f9-7c83-6f79-d411-7383c50b87ce",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "bar_id",
+					"value": "57",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "action",
+					"value": "addtocartfrombargin",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "device_id",
+					"value": "Y1rzMGRz82sGyI3fBTL6Cusk6VW6w42b4FJEBb7E",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583135897568,
+			"name": "User add bargain product in cart",
+			"description": "User add bargain product in cart",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "ba938eb7-3f72-6f57-956a-f6a4da98e6a7",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/wishlist/all?user_id=109",
+			"folder": "50af7deb-a8bc-66fd-9f8f-59bc8c162491",
+			"queryParams": [
+				{
+					"key": "user_id",
+					"value": "109",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583142888268,
+			"name": "Wishlist all product",
+			"description": "Wishlist all product",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "bd25a617-e1bc-8130-fb36-1896a13e32ca",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/address/add_address",
+			"folder": "3cb1d2a5-232d-8947-2c30-8ce04eb5f234",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "first_name",
+					"value": "rajesh",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "last_name",
+					"value": "yadav",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "title",
+					"value": "Test smoothgraph",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "address",
+					"value": "E-57A Sec-63",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "road",
+					"value": "Dhanpat road",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "city_district",
+					"value": "คลองหลวง",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "province_state",
+					"value": "ปทุมธานี",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "zip_code",
+					"value": "12120",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ph_number",
+					"value": "8855662233",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shipping_address",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "billing_address",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582703426419,
+			"name": "user add shipping and billing address",
+			"description": "user add shipping and billing address",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "bd26abb2-c0a1-aca3-4972-64e0926ffeb8",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/cms/static_page",
+			"folder": "e80a6e24-21ad-48e6-a6f0-1228acd7306a",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "email",
+					"value": "rajesh1@smoothgraph.in",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583144069894,
+			"name": "Api for static block data",
+			"description": "Api for static block data",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "bf7e04b0-f5a6-11bc-7f27-9c9192e6b6e2",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/address/shipping_status",
+			"folder": "3cb1d2a5-232d-8947-2c30-8ce04eb5f234",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "84",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "address_type",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "address_id",
+					"value": "28",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582703451532,
+			"name": "User change address status",
+			"description": "User change address status",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "bfe360fe-483f-21a2-4e6a-d2d65c79a6d3",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shop/insert_bank_info",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "105",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id",
+					"value": "28",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "account_name",
+					"value": "HDFC",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "account_no",
+					"value": "77558844554",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "branch",
+					"value": "sEC-63 nOIDA",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "image",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1580883804383,
+			"name": "Create bank data",
+			"description": "Create bank data",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "bfebf1b9-0a22-ef00-9a04-22a3057d0268",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzg3OTgyLCJpYXQiOjE1ODI3MDE1ODJ9.aE0BNXXOPm3iZqUh4LQ9hwsBZfMFrK_iFMUhYDEFylk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/address/all?user_id=104",
+			"folder": "3cb1d2a5-232d-8947-2c30-8ce04eb5f234",
+			"queryParams": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582785635372,
+			"name": "User all address list",
+			"description": "User all address list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "c4592688-fc19-88fc-1754-1967a8dde52f",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjExMjY4LCJpYXQiOjE1ODMxMjQ4Njh9.yNBtY7wZVyUjEi5MDflytzpyfs2rTC3FmltqpUncqZ4\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjExMjY4LCJpYXQiOjE1ODMxMjQ4Njh9.yNBtY7wZVyUjEi5MDflytzpyfs2rTC3FmltqpUncqZ4",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shop/favourite_shop_list?user_id=104&pageno=2&limit=10",
+			"folder": "bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb",
+			"queryParams": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "pageno",
+					"value": "2",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "limit",
+					"value": "10",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "limit",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "skip",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583126668552,
+			"name": "User favourite shop list",
+			"description": "User favourite shop list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "c4883270-09ef-173a-56e9-8fa626d1a911",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shopping/add_to_shopping_list",
+			"folder": "8bde9e0f-3dfa-9b15-8f81-0ca92d26481c",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "cat_id",
+					"value": "3",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "item_id",
+					"value": "47",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "badge_id",
+					"value": "7",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shopping_list_name",
+					"value": "mongo",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1581504826764,
+			"name": "User add product in shopping list",
+			"description": "User add product in shopping list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "c64aa8e9-8c45-e15e-fd19-c8c9ab1e57e4",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgwNDUzNjk2LCJpYXQiOjE1ODAzNjcyOTZ9.KoK9DMhFN-cDHKgmK7zmxiIKxlAvy2fmN6UA-AmEiwc\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgwNDUzNjk2LCJpYXQiOjE1ODAzNjcyOTZ9.KoK9DMhFN-cDHKgmK7zmxiIKxlAvy2fmN6UA-AmEiwc",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/check_shop_status?shop_id=41",
+			"folder": "bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb",
+			"queryParams": [
+				{
+					"key": "shop_id",
+					"value": "41",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "shop_id",
+					"value": "42",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583127920981,
+			"name": "User Check shop status (Open or closed)",
+			"description": "User Check shop status (Open or closed)",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "d12aa9b1-6459-3059-5e2a-c50b3f4bbe7d",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgxNTczMjcwLCJpYXQiOjE1ODE0ODY4NzB9.T4NDjrp8Jm6NrewSOOFmNZjX5Nuc0zSmRIjAeEiJvZY\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgxNTczMjcwLCJpYXQiOjE1ODE0ODY4NzB9.T4NDjrp8Jm6NrewSOOFmNZjX5Nuc0zSmRIjAeEiJvZY",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shopping/update_shopping_product",
+			"folder": "8bde9e0f-3dfa-9b15-8f81-0ca92d26481c",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "price",
+					"value": "500",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "grade",
+					"value": "good",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "size",
+					"value": "large",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "completed",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id",
+					"value": "360",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1581513628881,
+			"name": "User updated shopping product price, standard and complete",
+			"description": "User updated shopping product price, standard and complete",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "d6d97b43-d2d8-8ae2-bcfd-f22189ac88fb",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shopping/create_shopping",
+			"folder": "8bde9e0f-3dfa-9b15-8f81-0ca92d26481c",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shopping_list_name",
+					"value": "mongolistnew",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1580967359815,
+			"name": "User create shopping name",
+			"description": "User create shopping list name",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "d6d97b43-d2d8-8ae2-bcfd-f22189ac88fb"
+		},
+		{
+			"id": "d7e6f87f-9966-cab5-14f3-3ee52982e93b",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shop/test",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "Suntan Lotions",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "quantity",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1579845861232,
+			"name": "all user list api",
+			"description": "",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "d8a6433c-d859-d096-a8bf-c637109a5b22",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgwODg2MDk3LCJpYXQiOjE1ODA3OTk2OTd9.D6p_kLuucJniqXouQsvRGkGi4pkNCD2LcZIALmVe9MU\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgwODg2MDk3LCJpYXQiOjE1ODA3OTk2OTd9.D6p_kLuucJniqXouQsvRGkGi4pkNCD2LcZIALmVe9MU",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/update_profile_image",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "image",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1580888943659,
+			"name": "username update in profile image",
+			"description": "username update in profile image",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": [],
+			"isFromCollection": true,
+			"collectionRequestId": "d8a6433c-d859-d096-a8bf-c637109a5b22"
+		},
+		{
+			"id": "d8c245c8-03ef-99b6-3f52-796f2339270c",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/delete_product",
+			"folder": "2a66cee9-91cb-0b56-e800-d248edeb8430",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [
+				{
+					"key": "id",
+					"value": "65",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582783562331,
+			"name": "Seller product Delete",
+			"description": "Seller product Delete",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "db3cdfc5-cd38-921d-3795-1af7525b249b",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/order/payProduct",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "data",
+					"value": "{\"cartId\" : 173, \"quantity\" : 1}",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "data",
+					"value": "{\"cartId\" : 172, \"quantity\" : 1}",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "end_shopping",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582033017361,
+			"name": "User goto check out page",
+			"description": "User goto check out page",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "db45403d-b806-2add-c6da-57c12f4b6f5b",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/order/checkout",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "checkout_type",
+					"value": "buy-now-end-shipping",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "order_id",
+					"value": "180002002061",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "check_pay_method",
+					"value": "buy-now",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "payment_method",
+					"value": "4",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "nexday",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "pickup_time",
+					"value": "19",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ship_method",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ship_address",
+					"value": "50",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "bill_address",
+					"value": "49",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582203032318,
+			"name": "User check out product",
+			"description": "User check out product",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "df67c14e-8ff2-6e5d-020d-874ab373d9c6",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/auto_search/product/RL",
+			"folder": "2a66cee9-91cb-0b56-e800-d248edeb8430",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "type",
+					"value": "product",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "term",
+					"value": "RL",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582777559927,
+			"name": "auto filter search for product and shop",
+			"description": "auto filter search for product and shop",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "e1d71714-b2db-9652-d527-47dcc3f421e3",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/wishlist/add?user_id=109&product_id=59",
+			"folder": "50af7deb-a8bc-66fd-9f8f-59bc8c162491",
+			"queryParams": [
+				{
+					"key": "user_id",
+					"value": "109",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "product_id",
+					"value": "59",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "product_id",
+					"value": "59",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583142838073,
+			"name": "Wishlist add product",
+			"description": "Wishlist add product",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "e26b88f0-d136-bba0-dc44-f9d8cd4b965a",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shop/update_shop_info",
+			"folder": "bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "shop_id",
+					"value": "43",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shop_name",
+					"value": "mongo test test12",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shop_url",
+					"value": "mongo-test-test23",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ph_number",
+					"value": "8877554466",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "product_pickup_time",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "center_pickup_time",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "open_time",
+					"value": "12:00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "close_time",
+					"value": "15:00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "description",
+					"value": "shop for smoothgraph123",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "107",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582886371985,
+			"name": "Update shop data",
+			"description": "Update shop data",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "e5b59c20-f263-60d4-138b-f4ea5f38911d",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzk1NTQyLCJpYXQiOjE1ODI3MDkxNDJ9.SfyLo1mdBPGOpGfbZYKftVzlCPuE-NaAeV1ECWz9RMI\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNzk1NTQyLCJpYXQiOjE1ODI3MDkxNDJ9.SfyLo1mdBPGOpGfbZYKftVzlCPuE-NaAeV1ECWz9RMI",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/change_password",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "91",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "old_password",
+					"value": "12345678",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "new_password",
+					"value": "123456789",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "confirm_password",
+					"value": "123456789",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582711063767,
+			"name": "User change password in profile section",
+			"description": "User change password in profile section",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "e8e310ba-83a2-6e1a-ab5f-77e5ff6e2cbe",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/generate_token",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [
+				{
+					"key": "name",
+					"value": "Suntan Lotions",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "quantity",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1579611076901,
+			"name": "generate site token",
+			"description": "generate site token",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "eecee166-aa39-bb1d-4d2b-ad25b0a7b983",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/registration_email",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "88",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "Send otp on register email",
+			"description": "Send opt on register email",
+			"descriptionFormat": "html",
+			"time": 1578909410285,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "eecee166-aa39-bb1d-4d2b-ad25b0a7b983",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61"
+		},
+		{
+			"id": "eedc2fba-6aae-1588-5097-c8ebfd5fe951",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjExMjY4LCJpYXQiOjE1ODMxMjQ4Njh9.yNBtY7wZVyUjEi5MDflytzpyfs2rTC3FmltqpUncqZ4\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjExMjY4LCJpYXQiOjE1ODMxMjQ4Njh9.yNBtY7wZVyUjEi5MDflytzpyfs2rTC3FmltqpUncqZ4",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shop/get_shop_product",
+			"folder": "bc6b60f1-5fc7-7f64-e59c-68b1fc9f04eb",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "limit",
+					"value": "10",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "skip",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "cat_id",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shop_id",
+					"value": "6",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583125632177,
+			"name": "All shop product list",
+			"description": "All shop product list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "f1fbced6-d7eb-8374-4709-2689f9382745",
+			"headers": "header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5MDA0NzY3LCJpYXQiOjE1NzkwMDExNjd9.PS4fBgfmAb5r5nCVgv1jEDi_Ag6vyE6fv9ocmfG54Lw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/address/state",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "country_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1579504142989,
+			"name": "country state list",
+			"description": "country state list",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "f56721e3-dd85-4591-5c3c-3a4e3aea068d",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNjEwNTU3LCJpYXQiOjE1ODI1MjQxNTd9.YFXBcw9FqGwLB852uf5V_Mbq4Qztp6qFXh2x3DeL6Yg\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyNjEwNTU3LCJpYXQiOjE1ODI1MjQxNTd9.YFXBcw9FqGwLB852uf5V_Mbq4Qztp6qFXh2x3DeL6Yg",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/user/resend_otp",
+			"folder": "0a07b17e-0a21-73bd-f5e4-4118168c7e61",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "id",
+					"value": "105",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "lang_id",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582537884576,
+			"name": "Resend opt",
+			"description": "Send opt",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "f7b76658-8ec3-57da-a8a5-20eab5ade73c",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgyODYzMzkxLCJpYXQiOjE1ODI3NzY5OTF9.cKU7IduLYnnIWTIEXvXETVgK0L1oKirYtRtJFDrl7Ms",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/product/delete_product_image",
+			"folder": "2a66cee9-91cb-0b56-e800-d248edeb8430",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [
+				{
+					"key": "id",
+					"value": "71",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "5e3aba1bf3f731.jpg",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1582783370080,
+			"name": "Product image delete",
+			"description": "Product image delete",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "f9afdc41-ae49-2393-c3d1-eb97977ec22d",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTc5OTM0NjM0LCJpYXQiOjE1Nzk4NDgyMzR9.QU62_Um_bSqtMjRo0w4BYBrAQyradxBSK2_8bpELiOE",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/shopping/edit",
+			"folder": "8bde9e0f-3dfa-9b15-8f81-0ca92d26481c",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "shopping_list_name",
+					"value": "mongolist",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id",
+					"value": "30",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1581502679227,
+			"name": "User edit shopping name",
+			"description": "User edit shopping name",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		},
+		{
+			"id": "fd76e1cd-bb9d-13fd-5d4b-8baff3feda00",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3NtX3Byb2plY3QiLCJ1c2VyX2lkIjo3MCwiZXhwIjoxNTgzMjE3MjQwLCJpYXQiOjE1ODMxMzA4NDB9.SQc0yhCKgzPeej2NkCeD3bSPEIOtKk-QsCgye91iS2s",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://192.168.1.250:4500/api/v1/wishlist/remove",
+			"folder": "50af7deb-a8bc-66fd-9f8f-59bc8c162491",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [
+				{
+					"key": "user_id",
+					"value": "104",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "product_id",
+					"value": "58",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583143201598,
+			"name": "Wishlist remove product",
+			"description": "Wishlist remove product",
+			"collectionId": "bc306815-0430-b792-02d6-5035cbfee7da",
+			"responses": []
+		}
+	]
+}

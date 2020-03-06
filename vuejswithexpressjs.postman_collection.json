@@ -1,0 +1,156 @@
+{
+	"id": "b4b5471b-09aa-c228-4ac9-099a01c9840a",
+	"name": "vuejswithexpressjs",
+	"description": "",
+	"order": [
+		"1e79fe46-c6d4-6876-4206-4e84fd98eb71",
+		"b05ed824-786d-e010-b909-8d647fb365b1"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1583412465875,
+	"owner": "9728896",
+	"public": false,
+	"requests": [
+		{
+			"id": "1e79fe46-c6d4-6876-4206-4e84fd98eb71",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoidGhhaS1wbGFudCIsImV4cCI6MTU4MzQ4NTY1MSwiaWF0IjoxNTgzMzk5MjUxfQ.cNScM_AU_NkHoH2h8gRfR0CMDkh021J1YfgSOHr6KbE\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoidGhhaS1wbGFudCIsImV4cCI6MTU4MzQ4NTY1MSwiaWF0IjoxNTgzMzk5MjUxfQ.cNScM_AU_NkHoH2h8gRfR0CMDkh021J1YfgSOHr6KbE",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:5000/users/register",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "first_name",
+					"value": "asd",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "last_name",
+					"value": "asd",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "asd@gmail.com",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "asd",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583412674523,
+			"name": "user register",
+			"description": "user login",
+			"collectionId": "b4b5471b-09aa-c228-4ac9-099a01c9840a",
+			"responses": []
+		},
+		{
+			"id": "b05ed824-786d-e010-b909-8d647fb365b1",
+			"headers": "//header: test\n//Content-Type: application/x-www-form-urlencoded\nAuthorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoidGhhaS1wbGFudCIsImV4cCI6MTU4MzQ4NTY1MSwiaWF0IjoxNTgzMzk5MjUxfQ.cNScM_AU_NkHoH2h8gRfR0CMDkh021J1YfgSOHr6KbE\n",
+			"headerData": [
+				{
+					"key": "header",
+					"value": "test",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoidGhhaS1wbGFudCIsImV4cCI6MTU4MzQ4NTY1MSwiaWF0IjoxNTgzMzk5MjUxfQ.cNScM_AU_NkHoH2h8gRfR0CMDkh021J1YfgSOHr6KbE",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:5000/users/login",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "email",
+					"value": "asd@gmail.com",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "asd",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "asd@gmail.com",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "password",
+					"value": "asd",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1583412869475,
+			"name": "user login",
+			"description": "user login",
+			"collectionId": "b4b5471b-09aa-c228-4ac9-099a01c9840a",
+			"responses": []
+		}
+	]
+}
